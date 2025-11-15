@@ -68,7 +68,7 @@ Vanilla JavaScript: For all DOM manipulation, application logic, and rendering.
 HTML5 Canvas API: Used for drawing and rendering the digital waveforms.
 
 💡 Future Improvements
-[ ] Add more protocols (e.g., CAN bus, LIN bus, USB).
+[ ] Add more protocols (e.g. CAN bus, LIN bus, USB).
 
 [ ] Allow customization of protocol parameters (e.g., UART baud rate, parity, stop bits; SPI clock polarity).
 
