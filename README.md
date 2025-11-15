@@ -65,7 +65,7 @@ CSS3: For custom styling, layout (Flexbox), and a modern look.
 
 Vanilla JavaScript: For all DOM manipulation, application logic, and rendering.
 
-HTML5 Canvas API: Used for drawing and rendering the digital waveforms.
+HTML5 Canvas API: Used for drawing and rendering the digital waveforms
 
 💡 Future Improvements
 [ ] Add more protocols (e.g., CAN bus, LIN bus, USB).
