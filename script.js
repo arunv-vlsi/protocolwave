@@ -61,6 +61,9 @@ document.addEventListener('DOMContentLoaded', () => {
             binaryData = data;
         }
 
+        // Reverse the bit sequence for waveform plotting in reverse direction
+        binaryData = reverseBits(binaryData, { output: 'binary' });
+
         placeholderText.classList.add('hidden');
         canvas.classList.remove('hidden');
 
